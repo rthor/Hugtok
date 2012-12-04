@@ -9,20 +9,33 @@ Velkomin/nn á litla hliðarverkefnið mitt. Þetta er listi sem mig langar að 
 ## Hugtök
 
 database - **gagnagrunnur**
+
 email - **netfang**
+
 endpoint - **endapunktur**
+
 framework - **stoðgrind**
+
 interface - **viðmót**
+
 link - **hlekkur**
+
 menu - **valmynd**
+
 navigation - **stjórnborð**
+
 user - **notandi**
+
 username - **notendanafn**
+
 password - **lykilorð**
+
 user internace - **notendaviðmót**
 
 ## Hugtök sem vantar orð
+
 profile - ?
+
 …
 
 ## Ath.
