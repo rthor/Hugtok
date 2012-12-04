@@ -30,13 +30,17 @@ username - **notendanafn**
 
 password - **lykilorð**
 
+preprocessor - **forþýðandi**
+
 user internace - **notendaviðmót**
 
 ## Hugtök sem vantar orð
+
+cross platform - ?
 
 profile - ?
 
 …
 
 ## Ath.
-Ég er ekki íslenskusérfræðingur, bara leikmaður.
+Ég er ekki íslenskusérfræðingur, einungis leikmaður.
