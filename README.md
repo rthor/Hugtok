@@ -7,7 +7,15 @@ Velkomin/nn á litla hliðarverkefnið mitt. Þetta er listi sem mig langar að 
 
 ## Hugtök
 
+accessibility - **aðgengileiki**
+
+backend - **miðlarahluti**
+
+code - **kóði**
+
 database - **gagnagrunnur**
+
+developer - **þróunaraðili**
 
 email - **netfang**
 
@@ -15,11 +23,15 @@ endpoint - **endapunktur**
 
 framework - **stoðgrind**
 
+frontend - **ásjónarhluti**
+
 interface - **viðmót**
 
 link - **hlekkur**
 
 menu - **valmynd**
+
+mockup - **líkan**
 
 navigation - **stjórnborð**
 
@@ -31,15 +43,29 @@ password - **lykilorð**
 
 preprocessor - **forþýðandi**
 
-user internace - **notendaviðmót**
+programmer - **forritari**
 
-## Hugtök sem vantar orð
+server - **miðlari**
 
-cross platform - ?
+system - **kerfi**
+
+user interface - **notendaviðmót**
+
+web - **vefur**
+
+wireframe - **beinagrind**
+
+## Hugtök sem vantar þýðingu
+
+cross platform - ? (stýribúnaðshlutleysa) ?
 
 profile - ?
 
 …
 
 ## Ath.
-Ég er ekki íslenskusérfræðingur, einungis leikmaður.
+Ég er ekki íslenskusérfræðingur, einungis leikmaður með áhuga á að þróa vefinn áfram og þar með þurfum við Íslendingar viðeigandi hugtök.
+
+Eltið mig á twitter: [@rthor](http://twitter.com/rthor)
+
+Sendið mér póst: [ragnar@ylgur.is]
