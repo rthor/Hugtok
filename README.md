@@ -66,6 +66,6 @@ profile - ?
 ## Ath.
 Ég er ekki íslenskusérfræðingur, einungis leikmaður með áhuga á að þróa vefinn áfram og þar með þurfum við Íslendingar viðeigandi hugtök.
 
-Eltið mig á twitter: [@rthor](http://twitter.com/rthor)
+*Eltið mig á twitter: [@rthor](http://twitter.com/rthor)*
 
-Sendið mér póst: [ragnar@ylgur.is]
+*Sendið mér póst: [ragnar@ylgur.is](mailto:ragnar@ylgur.is)*
