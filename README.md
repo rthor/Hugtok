@@ -61,7 +61,7 @@ cross platform - ? (stýribúnaðshlutleysa) ?
 
 profile - ?
 
-…
+Sjá [issue lista](https://github.com/rthor/Hugtok/issues). Þar er hægt að koma með nýjar tillögur og betrumbætingar.
 
 ## Ath.
 Ég er ekki íslenskusérfræðingur, einungis leikmaður með áhuga á að þróa vefinn áfram og þar með þurfum við Íslendingar viðeigandi hugtök.
