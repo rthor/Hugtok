@@ -9,11 +9,25 @@ Velkomin/nn á litla hliðarverkefnið mitt. Þetta er listi sem mig langar að 
 
 accessibility - **aðgengileiki**
 
+access - **aðgengi**
+
+account - **reikningur**
+
+address bar - **slóðarreitur**
+
 backend - **miðlarahluti**
+
+case study - **tilviksrannsókn**
+
+certification - **vottun**
 
 code - **kóði**
 
+cryptography - **dulritun**
+
 database - **gagnagrunnur**
+
+demo - **sýnisútgáfa**
 
 developer - **þróunaraðili**
 
@@ -37,6 +51,8 @@ navigation - **stjórnborð**
 
 user - **notandi**
 
+user account - **notendareikningur**
+
 username - **notendanafn**
 
 password - **lykilorð**
@@ -45,7 +61,7 @@ preprocessor - **forþýðandi**
 
 programmer - **forritari**
 
-server - **miðlari**
+server - **þjónn/miðlari**
 
 system - **kerfi**
 
@@ -56,10 +72,6 @@ web - **vefur**
 wireframe - **beinagrind**
 
 ## Hugtök sem vantar þýðingu
-
-cross platform - ? (stýribúnaðshlutleysa) ?
-
-profile - ?
 
 Sjá [issue lista](https://github.com/rthor/Hugtok/issues). Þar er hægt að koma með nýjar tillögur og betrumbætingar.
 
